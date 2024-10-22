@@ -1,8 +1,16 @@
-h1 {
-  font-size: 60px;  
+#box1{
+  width: 250px;
+  height: 250px;
+  background: blue;
+  font-size: 225;
+  text-align: center;
+
+   animation: myslide;
+   animation-duration: 5s;
 }
-li {
-    font-size: 50px;
-    font-weight: 350;
-    line-height: 60px;
+
+@keyframes myslide {
+    from{left: 30%;}
+     to{left: 0%;}
+  
 }
