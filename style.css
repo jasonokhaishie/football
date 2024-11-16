@@ -1,16 +1,11 @@
-#box1{
-  width: 250px;
-  height: 250px;
-  background: blue;
-  font-size: 225;
-  text-align: center;
-
-   animation: myslide;
-   animation-duration: 5s;
+body{
+  background-color: black;
 }
-
-@keyframes myslide {
-    from{left: 30%;}
-     to{left: 0%;}
-  
+ 
+h1{
+   color: white;
+}
+p{
+  color: lightgreen;
+ font-family: "consolas" sans-serif;
 }
