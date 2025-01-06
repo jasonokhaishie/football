@@ -1,12 +1,14 @@
 body{
      background-color:#111111 ;
 }
-
+/*This is style h1*/
 h1{
    color:#FFFFFF ;
     font-family: "press Start 2P"
 }
+/*This is style for paragraqhs*/
 p{
      color: #00FF73;
      font-family: "consolas", sans-serif;
 }
+/*I know how to comment*/
